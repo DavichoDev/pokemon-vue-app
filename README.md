@@ -1,6 +1,6 @@
 # 04-pokemon-game
 
-## Project deploy url
+## Project deploy URL
 https://vue-pokemon-davicho.netlify.app/
 
 
