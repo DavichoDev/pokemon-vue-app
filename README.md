@@ -1,5 +1,9 @@
 # 04-pokemon-game
 
+## Project deploy url
+https://vue-pokemon-davicho.netlify.app/
+
+
 ## Project setup
 ```
 npm install
